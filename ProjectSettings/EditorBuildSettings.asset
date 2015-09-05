@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game.unity
+  - enabled: 1
+    path: Assets/Scenes/Converge.unity
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+  - enabled: 1
+    path: Assets/Scenes/Ecosystem.unity
+  - enabled: 0
+    path: Assets/MiniClientAssets/MiniClient.unity
+  - enabled: 1
+    path: Assets/DontEatMe.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRLogin.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRGame.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRRunnerScene.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRSelectionScene.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RREndScene.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRCountdownScene.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRChartScene.unity
+  - enabled: 1
+    path: Assets/RRAssets/Scenes/RRReadyScene.unity
+  - enabled: 1
+    path: Assets/CWAssets/Scenes/CWLogin.unity
+  - enabled: 1
+    path: Assets/CWAssets/Scenes/CWBattleMainMenu.unity
+  - enabled: 1
+    path: Assets/CWAssets/CWGame.unity
+  - enabled: 1
+    path: Assets/CWAssets/Scenes/CWBattle.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/AnimatedCheetah.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashAttackShop.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashBattle.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashDefense.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashDefenseShop.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashMain.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashResult.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/ClashSplash.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/Converge.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/Ecosystem.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/leve7.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/leve8.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/level10.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/level11.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/level6.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/level9.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/Login.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/scaleTestScene.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/Splash.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/SpriteStaging.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/terrain 1- The Grasslands.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/terrain 2 - The Rockies.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/terrain 3 - The Evergreens.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/terrain 4 - The DryLands.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/terrain 5 - The Warzone.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/test123.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/testesttetttt.unity
+  - enabled: 1
+    path: Assets/Scenes/ClashOfSpecies/World.unity
